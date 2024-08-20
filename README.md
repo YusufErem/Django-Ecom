@@ -1,6 +1,4 @@
-Tabii, işte istediğiniz şekilde kısaltılmış ve güncellenmiş README dosyası:
 
-```markdown
 # E-Commerce Website
 
 This project is a fully functional e-commerce website with user and guest checkout capabilities. The project setup, template configuration, and initial data structure are covered, with the remaining functionality to be completed.
